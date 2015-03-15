@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>45186F52-7EE6-4A45-B130-E0F4FDF3E40F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>I am Mo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>255F5A7B038EBE8601EEC0C7CA52DE5140BAA064</key>
+		<string>https://github.com/zhaimobile/moapp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>I am Mo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>255F5A7B038EBE8601EEC0C7CA52DE5140BAA064</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zhaimobile/moapp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>255F5A7B038EBE8601EEC0C7CA52DE5140BAA064</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>255F5A7B038EBE8601EEC0C7CA52DE5140BAA064</string>
+			<key>IDESourceControlWCCName</key>
+			<string>moapp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
